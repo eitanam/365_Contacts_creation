@@ -2,6 +2,14 @@
 
 This tool will create a contact on the 365 with some features existing only from PowerShell like set an internal email address or hide from address lists.
 
+*********************************************************************************
+This script is provided AS-IS without any warranty to any damage that may occured.
+If you are using it it's AT YOUR OWN RISK!
+*********************************************************************************
+
+Version 1.0
+Inital release
+
 How to use:
 
 Run the Contacts creation.ps1
